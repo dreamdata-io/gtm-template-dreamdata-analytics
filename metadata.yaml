@@ -1,0 +1,5 @@
+homepage: "https://dreamdata.io/"
+documentation: "https://docs.dreamdata.io/"
+versions:
+  - sha: e1206f9c677fe67348c6678c4669952cb0c0b97b
+    changeNotes: Initial release.
