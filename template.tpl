@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Dreamdata - B2B Revenue Attribution",
+  "categories": ["ATTRIBUTION", "ADVERTISING", "ANALYTICS", "MARKETING"],
   "brand": {
     "id": "dreamdata",
     "displayName": "Dreamdata - B2B Revenue Attribution",
