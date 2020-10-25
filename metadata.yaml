@@ -1,5 +1,9 @@
 homepage: "https://dreamdata.io/"
 documentation: "https://docs.dreamdata.io/article/o6ihr9gyxg-dreamdata-analytics-custom-tag-template"
 versions:
+  # Latest version
+  - sha: ccf7da9b9cd34233064b587cf60c7370c8820933
+    changeNotes: Updated description and display name
+  # Older versions
   - sha: 8a0e3bc542e613c9f09f15f9a3b85fb0a3cc3458
     changeNotes: Initial release.
