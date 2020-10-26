@@ -47,7 +47,7 @@ ___TEMPLATE_PARAMETERS___
         ]
       }
     ],
-    "valueHint": "17d668fb-430f-40a3-8601-875c5982db1f"
+    "valueHint": "99a999ff-000f-00f0-9909-099f0999f909"
   },
   {
     "type": "CHECKBOX",
