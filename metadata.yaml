@@ -2,9 +2,11 @@ homepage: "https://dreamdata.io/"
 documentation: "https://docs.dreamdata.io/article/o6ihr9gyxg-dreamdata-analytics-custom-tag-template"
 versions:
   # Latest version
+  - sha: 4bea6f5b117ff116df8e85551a4dc64b276daa57
+    changeNotes: Updated the value hint for apiKey
+  # Older versions
   - sha: 1276c33d6e6b30034f6a60bea1c4e187d3ac4f89
     changeNotes: Added categories to template
-  # Older versions
   - sha: ccf7da9b9cd34233064b587cf60c7370c8820933
     changeNotes: Updated description and display name
   - sha: 8a0e3bc542e613c9f09f15f9a3b85fb0a3cc3458
