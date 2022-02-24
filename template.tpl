@@ -181,7 +181,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://*.dreamdata.cloud/"
+                "string": "https://cdn.dreamdata.cloud/"
               }
             ]
           }
@@ -925,24 +925,6 @@ ___WEB_PERMISSIONS___
                   {
                     "type": 1,
                     "string": "execute"
-                  }
-                ],
-                "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "a"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
                   }
                 ]
               }
